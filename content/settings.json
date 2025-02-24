@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#f94808",
   "theme": {
-    "bootswatch": "cerulean",
+    "bootswatch": "flatly",
     "custom": "clean-white"
   },
   "bg_color": "#dd1313",
@@ -14,7 +14,7 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Inter",
   "favicon": "/img/uploads/marca-mercado.final.jpg",
   "icons_font": "tabler-icons",
   "country_code": "BR",
