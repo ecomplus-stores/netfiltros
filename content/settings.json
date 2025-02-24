@@ -6,21 +6,21 @@
     "bootswatch": "cerulean",
     "custom": "clean-white"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#dd1313",
   "repository": "ecomplus-stores/netfiltros",
-  "logo": "/img/uploads/logo.loja-mestre.logo.png",
+  "logo": "/img/uploads/logo.png",
   "name": "netfiltros",
   "short_name": "netfiltros",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/marca-mercado.final.jpg",
   "icons_font": "tabler-icons",
   "country_code": "BR",
   "secondary_color": "#0b5cdd",
   "icon": "/img/icon.png",
   "store_id": 51588,
   "description": "Netfiltros Ltda \nSomos loja física e virtual (desde 2013), que se dedica a trazer produtos e serviços de purificação de água. Aqui, transformamos a tarefa de beber água em uma experiência saudável e refrescante!",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/logo.png"
 }
