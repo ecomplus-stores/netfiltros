@@ -6,7 +6,7 @@
     "bootswatch": "flatly",
     "custom": "clean-white"
   },
-  "bg_color": "#dd1313",
+  "bg_color": "#ddd213",
   "repository": "ecomplus-stores/netfiltros",
   "logo": "/img/uploads/logo.png",
   "name": "netfiltros",
