@@ -1,7 +1,7 @@
 {
   "domain": "netfiltros.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#f94808",
+  "primary_color": "#1164a4",
   "theme": {
     "bootswatch": "flatly",
     "custom": "clean-white"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/marca-mercado.final.jpg",
   "icons_font": "tabler-icons",
   "country_code": "BR",
-  "secondary_color": "#0b5cdd",
+  "secondary_color": "#dd0b4d",
   "icon": "/img/icon.png",
   "store_id": 51588,
   "description": "Netfiltros Ltda \nSomos loja física e virtual (desde 2013), que se dedica a trazer produtos e serviços de purificação de água. Aqui, transformamos a tarefa de beber água em uma experiência saudável e refrescante!",
