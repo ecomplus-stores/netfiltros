@@ -140,6 +140,12 @@
     </url>
   
     <url>
+      <loc>https://netfiltros.netlify.app/torneiras-brancas-aparelhos-begel-stille-haste-prata---par</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://netfiltros.netlify.app/conectores-engates-rapidosregistros</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -194,25 +200,25 @@
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://netfiltros.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/pages/pagamentos</loc>
+      <loc>https://netfiltros.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://netfiltros.netlify.app/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
