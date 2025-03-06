@@ -98,12 +98,6 @@
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/torneira-alavanca-ibbl-exclusive-original-preta---unidade</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://netfiltros.netlify.app/bico-vazador-para-bebedouro-mini-mga-e-master-cga-libell-10-mm---par</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -165,6 +159,12 @@
   
     <url>
       <loc>https://netfiltros.netlify.app/condutores-cachimbo-para-stilo-e-acquaflex-libell---par</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/condutores-cachimbo-colormaq-original---par</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
