@@ -164,6 +164,12 @@
     </url>
   
     <url>
+      <loc>https://netfiltros.netlify.app/condutores-cachimbo-para-stilo-e-acquaflex-libell---par</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://netfiltros.netlify.app/conectores-engates-rapidosregistros</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -290,13 +296,13 @@
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/app/index</loc>
+      <loc>https://netfiltros.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/admin/index</loc>
+      <loc>https://netfiltros.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
