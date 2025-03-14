@@ -254,6 +254,12 @@
     </url>
   
     <url>
+      <loc>https://netfiltros.netlify.app/cabecote--suporte-canovas-do-filtro-original</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://netfiltros.netlify.app/conectores-engates-rapidosregistros</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
