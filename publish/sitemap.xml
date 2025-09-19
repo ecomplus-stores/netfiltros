@@ -2,54 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://netfiltros.netlify.app/conectores-engates-rapidosregistros</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://netfiltros.netlify.app/marcas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://netfiltros.netlify.app/pecasacessorios</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://netfiltros.netlify.app/purificadores-de-aguafiltros</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://netfiltros.netlify.app/refisvelaselementos-filtrantes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://netfiltros.netlify.app/higienizacao-de-aparelho</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://netfiltros.netlify.app/mangueiras-atoxicas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://netfiltros.netlify.app/torneiras</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://netfiltros.netlify.app/torneira-new-up-preta-com-cabeca-cromada</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -452,6 +404,54 @@
     </url>
   
     <url>
+      <loc>https://netfiltros.netlify.app/conectores-engates-rapidosregistros</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/marcas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/pecasacessorios</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/purificadores-de-aguafiltros</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/refisvelaselementos-filtrantes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/higienizacao-de-aparelho</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/mangueiras-atoxicas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/torneiras</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://netfiltros.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -459,6 +459,12 @@
   
     <url>
       <loc>https://netfiltros.netlify.app/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -477,12 +483,6 @@
   
     <url>
       <loc>https://netfiltros.netlify.app/pages/sobre-nos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://netfiltros.netlify.app/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -512,15 +512,15 @@
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://netfiltros.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
