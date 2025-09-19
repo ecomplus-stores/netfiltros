@@ -464,19 +464,31 @@
     </url>
   
     <url>
+      <loc>https://netfiltros.netlify.app/kit-2-mangueiras-de-silicone-p-torneira-agua-natural-egm30</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/pingadeira-aparador-de-agua-cinza-claro-original-esmaltec</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://netfiltros.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/pages/entrega</loc>
+      <loc>https://netfiltros.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/pages/faq</loc>
+      <loc>https://netfiltros.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
