@@ -446,6 +446,12 @@
     </url>
   
     <url>
+      <loc>https://netfiltros.netlify.app/mangueira-tubo-38-para-purificador-everest-rolo-50m</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://netfiltros.netlify.app/conectores-engates-rapidosregistros</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -500,13 +506,13 @@
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/pages/faq</loc>
+      <loc>https://netfiltros.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/pages/entrega</loc>
+      <loc>https://netfiltros.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -554,15 +560,15 @@
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://netfiltros.netlify.app/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
