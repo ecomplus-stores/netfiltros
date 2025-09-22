@@ -8,7 +8,8 @@
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "APROVEITE NOSSOS DESCONTOS DE ATÉ 50%!",
-    "link": "/promotion"
+    "link": "/promotion",
+    "color": "#009eff"
   },
   "alphabetical_order_submenu": false,
   "name_all_departments": "",
