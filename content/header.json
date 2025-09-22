@@ -1,7 +1,9 @@
 {
   "categories_list": {
-    "featured": [],
-    "random": 8,
+    "featured": [
+      "/conectores-engates-rapidosregistros?Conectores Engates Rápidos/Registros"
+    ],
+    "random": 6,
     "full_width": true
   },
   "menu_all_departments": true,
