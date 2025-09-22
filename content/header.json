@@ -4,7 +4,7 @@
     "random": 8,
     "full_width": true
   },
-  "menu_all_departments": false,
+  "menu_all_departments": true,
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "APROVEITE NOSSOS DESCONTOS DE ATÉ 50%!",
@@ -12,7 +12,7 @@
     "color": "#009eff"
   },
   "alphabetical_order_submenu": false,
-  "name_all_departments": "",
+  "name_all_departments": "Teste",
   "search_input": true,
   "desktop_megamenu": false,
   "full_width_submenu": false,
@@ -21,10 +21,6 @@
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
     "phone_wpp": true,
