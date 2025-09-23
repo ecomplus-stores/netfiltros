@@ -4,7 +4,7 @@
   "primary_color": "#0984f3",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-white"
+    "custom": "_"
   },
   "bg_color": "#0984f3",
   "repository": "ecomplus-stores/netfiltros",
@@ -14,9 +14,9 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Ubuntu",
+  "font_family": "Montserrat",
   "favicon": "/img/uploads/marca-mercado.final.jpg",
-  "icons_font": "tabler-icons",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#0984f3",
   "icon": "/img/icon.png",
