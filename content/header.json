@@ -1,12 +1,11 @@
 {
   "categories_list": {
     "featured": [
-      "/conectores-engates-rapidosregistros?Conectores Engates Rápidos/Registros",
-      "/pecasacessorios?Peças/Acessórios",
-      "/marcas?Marcas"
+      "/marcas?Marcas",
+      "/pecasacessorios?Peças/Acessórios"
     ],
     "random": 6,
-    "full_width": true
+    "full_width": false
   },
   "menu_all_departments": false,
   "centralized_logo": false,
@@ -16,7 +15,7 @@
     "color": "#009eff",
     "background": "#009eff"
   },
-  "alphabetical_order_submenu": false,
+  "alphabetical_order_submenu": true,
   "name_all_departments": "",
   "search_input": true,
   "desktop_megamenu": true,
