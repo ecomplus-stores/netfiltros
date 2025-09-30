@@ -5,9 +5,9 @@
       "/marcas?Marcas"
     ],
     "random": 6,
-    "full_width": true
+    "full_width": false
   },
-  "menu_all_departments": true,
+  "menu_all_departments": false,
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "",
@@ -16,7 +16,7 @@
     "background": "#009eff"
   },
   "alphabetical_order_submenu": true,
-  "name_all_departments": "marcas",
+  "name_all_departments": "",
   "search_input": true,
   "desktop_megamenu": true,
   "full_width_submenu": true,
