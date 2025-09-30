@@ -6,7 +6,7 @@
       "/marcas?Marcas"
     ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "menu_all_departments": false,
   "centralized_logo": false,
@@ -16,7 +16,7 @@
     "color": "#009eff",
     "background": "#009eff"
   },
-  "alphabetical_order_submenu": true,
+  "alphabetical_order_submenu": false,
   "name_all_departments": "",
   "search_input": true,
   "desktop_megamenu": true,
