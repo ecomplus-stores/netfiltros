@@ -6,7 +6,7 @@
       "/marcas?Marcas"
     ],
     "random": 6,
-    "full_width": true
+    "full_width": false
   },
   "menu_all_departments": false,
   "centralized_logo": false,
