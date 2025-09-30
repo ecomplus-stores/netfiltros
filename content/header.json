@@ -15,8 +15,8 @@
     "color": "#009eff",
     "background": "#009eff"
   },
-  "alphabetical_order_submenu": false,
-  "name_all_departments": "",
+  "alphabetical_order_submenu": true,
+  "name_all_departments": "marcas",
   "search_input": true,
   "desktop_megamenu": true,
   "full_width_submenu": true,
