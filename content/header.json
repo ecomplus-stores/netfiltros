@@ -15,7 +15,7 @@
     "color": "#009eff",
     "background": "#009eff"
   },
-  "alphabetical_order_submenu": true,
+  "alphabetical_order_submenu": false,
   "name_all_departments": "",
   "search_input": true,
   "desktop_megamenu": true,
