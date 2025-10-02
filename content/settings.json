@@ -1,7 +1,7 @@
 {
   "domain": "netfiltros.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#01aae9",
+  "primary_color": "#094a62",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
