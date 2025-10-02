@@ -43,7 +43,7 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-web-2.jpg",
-      "mobile_img": "/img/uploads/banner-2-celular.jpg"
+      "mobile_img": ""
     },
     {
       "type": "collection-shelf",
