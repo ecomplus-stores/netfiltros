@@ -10,8 +10,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-web-3.jpg",
-          "mobile_img": "/img/uploads/hedermobilebanner3.jpg"
+          "img": "/img/uploads/banner-3.png"
         },
         {
           "start": "",
@@ -22,7 +21,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-3.png"
+          "img": "/img/uploads/banner-web-3.jpg",
+          "mobile_img": "/img/uploads/hedermobilebanner3.jpg"
         }
       ]
     },
