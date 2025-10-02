@@ -43,7 +43,7 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/banner-web-2.jpg",
-      "mobile_img": ""
+      "mobile_img": "/img/uploads/banner-2-celular.jpg"
     },
     {
       "type": "collection-shelf",
@@ -51,6 +51,11 @@
       "limit": 24,
       "page": 1,
       "title": "Em Destaque"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     },
     {
       "type": "page-title",
