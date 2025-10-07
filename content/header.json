@@ -7,7 +7,7 @@
   "menu_all_departments": false,
   "centralized_logo": false,
   "marketing_stripe": {
-    "text": "",
+    "text": "Teste",
     "link": "/promotion",
     "color": "#009eff",
     "background": "#009eff"
