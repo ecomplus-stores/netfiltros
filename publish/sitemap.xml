@@ -572,7 +572,49 @@
     </url>
   
     <url>
+      <loc>https://netfiltros.netlify.app/purific</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/health-do-brasil</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://netfiltros.netlify.app/libell</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/latina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/colormaq</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/begel</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/acquabios</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/wfs</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -614,13 +656,13 @@
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/pages/faq</loc>
+      <loc>https://netfiltros.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/pages/entrega</loc>
+      <loc>https://netfiltros.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
