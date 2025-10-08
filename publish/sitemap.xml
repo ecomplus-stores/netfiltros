@@ -602,6 +602,12 @@
     </url>
   
     <url>
+      <loc>https://netfiltros.netlify.app/esmaltec</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://netfiltros.netlify.app/begel</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -615,6 +621,12 @@
   
     <url>
       <loc>https://netfiltros.netlify.app/wfs</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://netfiltros.netlify.app/canovas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -722,13 +734,13 @@
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/app/index</loc>
+      <loc>https://netfiltros.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/admin/index</loc>
+      <loc>https://netfiltros.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
