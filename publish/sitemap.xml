@@ -392,12 +392,6 @@
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/kit-original-torneira-top-c-trava-esmaltec-direitaesquerda</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://netfiltros.netlify.app/2-torneiras-para-bebedouro-de-galao-esmaltec-gelagua-egc35b</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -722,13 +716,13 @@
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/admin/index</loc>
+      <loc>https://netfiltros.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://netfiltros.netlify.app/app/index</loc>
+      <loc>https://netfiltros.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
