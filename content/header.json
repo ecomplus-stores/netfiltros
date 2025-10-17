@@ -6,6 +6,9 @@
         "link": "/pages/sobre-nos"
       }
     ],
+    "phone_wpp": true,
+    "socials": true
+  },
   "categories_list": {
     "featured": [],
     "random": 7,
@@ -23,10 +26,5 @@
   "name_all_departments": "",
   "search_input": true,
   "desktop_megamenu": true,
-  "full_width_submenu": false,
-  "contacts_stripe": {
-    "pages": [],
-    "phone_wpp": true,
-    "socials": true
-  }
+  "full_width_submenu": false
 }
