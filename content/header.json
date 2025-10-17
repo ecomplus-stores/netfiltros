@@ -1,4 +1,11 @@
 {
+  "contacts_stripe": {
+    "pages": [
+      {
+        "title": "Sobre nós",
+        "link": "/pages/sobre-nos"
+      }
+    ],
   "categories_list": {
     "featured": [],
     "random": 7,
