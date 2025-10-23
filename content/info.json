@@ -9,7 +9,8 @@
   },
   "exchange": {
     "show": true,
-    "text": "Produtos, Peças e Acessórios Multimarcas"
+    "text": "Peças e Acessórios Multimarcas",
+    "link": "www.google.com.br"
   },
   "promo": {
     "show": true,
