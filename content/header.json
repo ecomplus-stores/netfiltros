@@ -1,17 +1,7 @@
 {
-  "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      }
-    ],
-    "phone_wpp": true,
-    "socials": true
-  },
   "categories_list": {
     "featured": [],
-    "random": 7,
+    "random": 8,
     "full_width": true
   },
   "menu_all_departments": false,
@@ -26,5 +16,15 @@
   "name_all_departments": "",
   "search_input": true,
   "desktop_megamenu": true,
-  "full_width_submenu": false
+  "full_width_submenu": false,
+  "contacts_stripe": {
+    "pages": [
+      {
+        "title": "Sobre nós",
+        "link": "/pages/sobre-nos"
+      }
+    ],
+    "phone_wpp": true,
+    "socials": true
+  }
 }
