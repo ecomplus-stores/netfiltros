@@ -1,6 +1,16 @@
 {
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/engates-rapidos?Engates Rápidos",
+      "/pecasacessorios?Peças e Acessórios",
+      "/torneiras?Torneiras",
+      "/mangueiras-atoxicas?Mangueiras",
+      "/purificadores-de-agua?Purificadores de Água",
+      "/filtros?Refis",
+      "/carvao-ativado?Carvão Ativado",
+      "/higienizacao-de-aparelho?Higienização de Aparelhos",
+      "/catalogo-de-produtos?Catálogo de Produtos"
+    ],
     "random": 8,
     "full_width": true
   },
