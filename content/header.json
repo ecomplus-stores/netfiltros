@@ -9,9 +9,10 @@
       "/filtros?Refis",
       "/carvao-ativado?Carvão Ativado",
       "/higienizacao-de-aparelho?Higienização de Aparelhos",
-      "/catalogo-de-produtos?Catálogo de Produtos"
+      "/catalogo-de-produtos?Catálogo de Produtos",
+      "/marcas?Marcas"
     ],
-    "random": 9,
+    "random": 10,
     "full_width": true
   },
   "menu_all_departments": false,
