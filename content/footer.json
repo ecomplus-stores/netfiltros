@@ -5,7 +5,7 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Nossa loja no Mercado Livre",
+    "title": "Páginas",
     "list": [
       {
         "text": "Nossa Loja no Mercado Livre",
@@ -17,7 +17,9 @@
   "links_2": {
     "list_categories": true,
     "title": "Categorias",
-    "list": []
+    "list": [
+      {}
+    ]
   },
   "contacts": {
     "title": "Contatos",
