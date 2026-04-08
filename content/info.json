@@ -17,7 +17,9 @@
     "link": ""
   },
   "promo": {
-    "show": false,
-    "text": ""
+    "show": true,
+    "text": "",
+    "link": "https://www.magazineluiza.com.br/busca/netfiltros/",
+    "title": "Nossa loja no Magalu"
   }
 }
