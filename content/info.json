@@ -1,11 +1,15 @@
 {
   "shipping": {
     "show": true,
-    "text": "Enviamos para todo o Brasil"
+    "text": "",
+    "link": "https://www.mercadolivre.com.br/pagina/netfiltros-purificadores#client=HOME&component_id=header_logo&component=header_logo&label=NETFILTROS+-+%C3%A1gua+com+sa%C3%BAde&tracking_id=3a7244cc-460e-40b8-ac1a-c88e601b0dea&global_position=1",
+    "title": "Nossa loja no Mercado Livre"
   },
   "installments": {
     "show": true,
-    "text": "Parcelamos suas compras"
+    "text": "",
+    "link": "https://shopee.com.br/netfiltros?entryPoint=ShopBySearch&searchKeyword=netfiltros",
+    "title": "Nossa loja na Shopee"
   },
   "exchange": {
     "show": true,
@@ -13,7 +17,7 @@
     "link": "drive.google.com/file/d/1Smf5CLdNVZozOI-hF8fO8WcOUlePlICp/view"
   },
   "promo": {
-    "show": true,
-    "text": "Promoções o ano inteiro"
+    "show": false,
+    "text": ""
   }
 }
