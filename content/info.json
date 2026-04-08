@@ -12,9 +12,9 @@
     "title": "Nossa loja na Shopee"
   },
   "exchange": {
-    "show": true,
-    "text": "Peças e Acessórios Multimarcas",
-    "link": "drive.google.com/file/d/1Smf5CLdNVZozOI-hF8fO8WcOUlePlICp/view"
+    "show": false,
+    "text": "",
+    "link": ""
   },
   "promo": {
     "show": false,
