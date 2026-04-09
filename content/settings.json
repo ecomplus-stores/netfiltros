@@ -1,7 +1,7 @@
 {
   "domain": "netfiltros-5de28.web.app",
   "currency_symbol": "R$",
-  "primary_color": "#081534",
+  "primary_color": "#49e6cd",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -21,6 +21,6 @@
   "secondary_color": "#01aae9",
   "icon": "/img/uploads/fav-ico-netfiltros.png",
   "store_id": 51588,
-  "description": "Somos loja física e virtual (desde 2013), que se dedica a trazer produtos e serviços de purificação de água. A netfiltros, busca gerar o hábito de beber água em uma experiência saudável e prazerosa!",
+  "description": "Somos loja física e virtual (desde 2013), que se dedica a trazer produtos e serviços de purificação de água. A netfiltros busca gerar o hábito de beber água como uma experiência saudável e prazerosa!",
   "large_icon": "/img/uploads/20251028_221841.png"
 }
