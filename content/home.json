@@ -57,7 +57,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/20251007_122512~2.jpg",
-      "mobile_img": "/img/uploads/banner-2-celular.jpg"
+      "mobile_img": "/img/uploads/banner-2-celular.jpg",
+      "link": "https://www.netfiltros.com.br/purificadores-de-agua"
     },
     {
       "type": "collection-shelf",
