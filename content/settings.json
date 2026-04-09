@@ -1,7 +1,7 @@
 {
   "domain": "netfiltros-5de28.web.app",
   "currency_symbol": "R$",
-  "primary_color": "#49e6cd",
+  "primary_color": "#0c1439",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
