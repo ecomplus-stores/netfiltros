@@ -10,23 +10,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/20251007_123950.jpg",
-          "mobile_img": "/img/uploads/20251007_133835.jpg",
-          "link": "https://www.netfiltros.com.br/torneiras"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/20251007_130401.jpg",
-          "mobile_img": "/img/uploads/20251007_133848.jpg",
-          "link": "https://www.netfiltros.com.br/pecasacessorios"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/20251007_125437.jpg",
-          "mobile_img": "/img/uploads/20251007_133807.jpg",
-          "link": "/filtros"
+          "img": "/img/uploads/mg.png"
         }
       ]
     },
