@@ -43,7 +43,8 @@
         },
         {
           "link": "https://www.magazineluiza.com.br/busca/netfiltros/",
-          "img": "/img/uploads/logo-lojamagalu-menor.png"
+          "img": "/img/uploads/logo-lojamagalu-menor.png",
+          "mobile_img": "/img/uploads/logo-lojamagalu-menor.png"
         }
       ]
     },
