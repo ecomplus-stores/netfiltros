@@ -38,7 +38,8 @@
         },
         {
           "link": "https://shopee.com.br/netfiltros?entryPoint=ShopBySearch&searchKeyword=netfiltros",
-          "img": "/img/uploads/logo-lojashopee-menor.png"
+          "img": "/img/uploads/logo-lojashopee-menor.png",
+          "mobile_img": "/img/uploads/logo-lojashopee-menor.png"
         },
         {
           "link": "https://www.magazineluiza.com.br/busca/netfiltros/",
