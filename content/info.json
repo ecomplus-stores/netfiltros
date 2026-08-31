@@ -12,9 +12,10 @@
     "title": "Nossa loja na Shopee"
   },
   "exchange": {
-    "show": false,
+    "show": true,
     "text": "",
-    "link": ""
+    "link": "https://www.tiktok.com/@netfiltros?_r=1&_t=ZS-99LZMLny2Yj",
+    "title": "Nossa loja no Tik Tok"
   },
   "promo": {
     "show": true,
