@@ -43,7 +43,8 @@
         },
         {
           "link": "https://www.tiktok.com/@netfiltros?_r=1&_t=ZS-99LZMLny2Yj",
-          "img": "/img/uploads/tiktok.site.png"
+          "img": "/img/uploads/tiktok.site.png",
+          "mobile_img": "/img/uploads/tiktok.site.png"
         }
       ]
     },
