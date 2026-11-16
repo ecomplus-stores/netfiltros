@@ -21,6 +21,10 @@
     {
       "type": "document-description",
       "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
