@@ -14,18 +14,18 @@
           "img": "/img/uploads/time.3.png"
         },
         {
-          "start": "2026-07-29T18:31:37.622Z",
-          "end": "2027-03-31T21:35:33.996Z",
-          "img": "/img/uploads/20251007_123950.jpg",
-          "link": "https://netfiltros-5de28.web.app/pecasacessorios",
-          "mobile_img": "/img/uploads/banner-geral-para-site.mulher.com-logotipo-nf.1.png"
-        },
-        {
           "start": "2026-10-29T13:47:15.637Z",
           "end": "",
           "img": "/img/uploads/banner-mulher-horizontal.1.png",
           "link": "https://netfiltros-5de28.web.app/pecasacessorios",
           "mobile_img": "/img/uploads/pecas-e-acessorios-site.png"
+        },
+        {
+          "start": "2026-07-29T18:31:37.622Z",
+          "end": "2027-03-31T21:35:33.996Z",
+          "img": "/img/uploads/20251007_123950.jpg",
+          "link": "https://netfiltros-5de28.web.app/pecasacessorios",
+          "mobile_img": "/img/uploads/banner-geral-para-site.mulher.com-logotipo-nf.1.png"
         },
         {
           "start": "",
