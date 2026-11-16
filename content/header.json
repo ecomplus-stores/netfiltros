@@ -32,8 +32,8 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "https://netfiltros.com.br/pages/sobre-nos-1"
+        "title": "",
+        "link": ""
       }
     ],
     "phone_wpp": true,
