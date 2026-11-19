@@ -11,9 +11,7 @@
   "links_2": {
     "list_categories": true,
     "title": "Categorias",
-    "list": [
-      {}
-    ]
+    "list": []
   },
   "contacts": {
     "title": "Contatos",
@@ -28,9 +26,6 @@
       "alt": "Secure connection",
       "width": 150,
       "height": 62
-    },
-    {
-      "src": ""
     }
   ],
   "payment_methods": {
